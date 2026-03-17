@@ -6,7 +6,7 @@ int main()
     scanf("%d%d%d",&a,&b,&c);
 sum= a+b+c;
 product= a*b*c;
-printf("sum of three nimbersis",sum);
+printf("sum of three numbers is",sum);
 printf("product of three number is",product);
 return 0;
 }
